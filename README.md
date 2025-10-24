@@ -1,1 +1,1 @@
-# sten-sax-p-se
+# rock paper scissors
